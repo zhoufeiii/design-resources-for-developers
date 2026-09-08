@@ -1140,6 +1140,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers.|
 | [Once UI](https://once-ui.com/)| Open-source design system for Next.js with 100+ components, deployment-ready app templates, and Figma integration |
 
+| [CloneAny Gallery](https://cloneany.com/gallery) | Free webpage design examples with downloadable DESIGN.md style guides and source/clone previews. No signup needed to browse or download the guides. |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
